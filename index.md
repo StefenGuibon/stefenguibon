@@ -14,5 +14,5 @@ Etudiant en M1 Traducteur/Rédacteur
 ## Mon parcours 
 * [ CV ](https://drive.google.com/file/d/1xKiKuAF3_Ml3uBOWH1cmwu587EDS3Spb/view?usp=sharing)
 + [ Expérience aux Etats-Unis ](https://drive.google.com/file/d/1BoLVZv3kGPjF0lCxtQYQc_VSxlRNlnVw/view?usp=sharing)
-- [ Expérience Erasmus en Lituanie ](https://drive.google.com/file/d/1xKiKuAF3_Ml3uBOWH1cmwu587EDS3Spb/view?usp=sharing)
+- [ Expérience Erasmus en Lituanie ](experienceerasmus.md)
 * * * 
