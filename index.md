@@ -11,6 +11,7 @@ Etudiant en M1 Traducteur/Rédacteur
 * * *
 ## Présentation
 > À l'issue d'une formation en L3 LLCER Anglais (Université de Bretagne Occidentale), j'ai intégré le Master mention Traduction et Interprétation que propose l'université de Bretagne Occidentale à Brest. Dans le cadre du programme Erasmus que j'ai effectué en Lituanie à [l’université de Vytautas Magnus](https://www.vdu.lt/en/), j'ai fréquenté un cours s'intitulant « Communication audiovisuelle et écriture de scénarios », qui porte principalement sur l'écriture de scripts dans le monde du cinéma. Je suis motivé à rechercher un stage dans ce domaine afin d'approfondir mes connaissances et confirmer mon attrait professionnel pour ce secteur.
+* * *
 ## Mon parcours 
 * [ CV ](https://drive.google.com/file/d/1xKiKuAF3_Ml3uBOWH1cmwu587EDS3Spb/view?usp=sharing)
 + [ Expérience aux Etats-Unis ](https://drive.google.com/file/d/1BoLVZv3kGPjF0lCxtQYQc_VSxlRNlnVw/view?usp=sharing)
