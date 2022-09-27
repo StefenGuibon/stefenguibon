@@ -8,7 +8,7 @@ Etudiant en M1 Traducteur/Rédacteur
 + Email : stefengb29@gmail.com
 - Adresse : 11 Rue Avel Sterenn, 29200 Brest 
 * Date de naissance : 22/03/2000
-*  * *
+* * *
 ## Présentation
 > À l'issue d'une formation en L3 LLCER Anglais (Université de Bretagne Occidentale), j'ai intégré le Master Traduction et Interprétation. 
 ## Mon parcours 
