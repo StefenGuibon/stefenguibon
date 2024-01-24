@@ -21,6 +21,6 @@ Etudiant en M1 Traducteur/Rédacteur                    [English version](indexe
 * * *
 
 ## Mon parcours 
-* [ CV ](https://drive.google.com/file/d/1xKiKuAF3_Ml3uBOWH1cmwu587EDS3Spb/view?usp=sharing)
+* [ CV ](SG-CV.pdf)
 
 * * * 
