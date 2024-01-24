@@ -21,7 +21,7 @@ M2 Student Technical Writer/Translator  [French version](index.md)
 * * *
 
 ## About me
-* [ CV ](https://drive.google.com/file/d/1xKiKuAF3_Ml3uBOWH1cmwu587EDS3Spb/view?usp=sharing)
+* [ RESUME ](SG-Resume.pdf)
 
 * * * 
 
