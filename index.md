@@ -1,5 +1,6 @@
 # **Stefen Guibon**
-Etudiant en M2 Traducteur/Rédacteur <p style="text-align: right;"> [English version of the website](indexen.md)</p>
+Etudiant en M2 Traducteur/Rédacteur 
+[English version of the website](indexen.md)
 
 
 
