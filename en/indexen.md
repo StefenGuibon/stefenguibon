@@ -1,5 +1,6 @@
 # **Stefen Guibon**
-M2 Student Technical Writer/Translator  [![Version Française](frflag.png)](index.md)
+M2 Student Technical Writer/Translator  [French version](index.md)
+
 
 ![Alt text](https://img.over-blog-kiwi.com/0/83/12/88/20151106/ob_f207c7_00001731-1280x768.JPG)
 
