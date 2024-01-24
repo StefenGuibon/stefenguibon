@@ -8,22 +8,20 @@ M2 Student Technical Writer/Translator  [French version](index.md)
 
 ## Contact
 
-* Téléphone : 07 61 88 25 76
+* Phone number : +33 7 61 88 25 76
 + Email : stefengb29@gmail.com
-- Adresse : 11 Rue Avel Sterenn, 29200 Brest 
-* Date de naissance : 22/03/20
+- Adress : 11 Rue Avel Sterenn, 29200 Brest 
+* Date of birth : 22/03/20
 
 * * *
 
-## Présentation
-> À l'issue d'une formation en L3 LLCER Anglais (Université de Bretagne Occidentale), j'ai intégré le Master mention Traduction et Interprétation que propose l'université de Bretagne Occidentale à Brest. Dans le cadre du programme Erasmus que j'ai effectué en Lituanie à [l’université de Vytautas Magnus](https://www.vdu.lt/en/), j'ai fréquenté un cours s'intitulant « Communication audiovisuelle et écriture de scénarios », qui porte principalement sur l'écriture de scripts dans le monde du cinéma. Je suis motivé à rechercher un stage dans ce domaine afin d'approfondir mes connaissances et confirmer mon attrait professionnel pour ce secteur.
+## Presentation
+> At the end of my L3 LLCER English course ( University of Western Brittany), I joined the Master's degree in Translation and Interpreting offered by the University of Western Brittany in Brest. As part of the Erasmus program I took in Lithuania at [the Vytautas Magnus university](https://www.vdu.lt/en/), where I attended a course entitled "Audiovisual communication and scriptwriting", which focuses on scriptwriting in the film world. I am motivated to look for an internship in this field in order to deepen my knowledge and confirm my professional attraction to this sector.
 
 * * *
 
-## Mon parcours 
+## About me
 * [ CV ](https://drive.google.com/file/d/1xKiKuAF3_Ml3uBOWH1cmwu587EDS3Spb/view?usp=sharing)
-+ [ Expérience aux Etats-Unis ](https://drive.google.com/file/d/1BoLVZv3kGPjF0lCxtQYQc_VSxlRNlnVw/view?usp=sharing)
-- [ Expérience Erasmus en Lituanie ](experienceerasmus.md)
 
 * * * 
 
