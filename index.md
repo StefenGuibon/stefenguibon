@@ -1,5 +1,5 @@
 # **Stefen Guibon**
-Etudiant en M1 Traducteur/Rédacteur                    [![Drapeau Anglais](en/enflag.png)](indexen.md)
+Etudiant en M1 Traducteur/Rédacteur                    [![English version](indexen.md)
 
 
 ![Alt text](https://img.over-blog-kiwi.com/0/83/12/88/20151106/ob_f207c7_00001731-1280x768.JPG)
