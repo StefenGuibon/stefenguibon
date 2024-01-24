@@ -10,7 +10,7 @@ Etudiant en M1 Traducteur/Rédacteur
 * Téléphone : 07 61 88 25 76
 + Email : stefengb29@gmail.com
 - Adresse : 11 Rue Avel Sterenn, 29200 Brest 
-* Date de naissance : 22/03/2000
+* Date de naissance : 22/03/20
 
 * * *
 
